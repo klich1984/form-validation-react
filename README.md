@@ -11,6 +11,12 @@ Using:
 The form is not processed, it simply verifies that all the fields are filled in correctly and shows success or error alerts.
 
 ---
+
+## Deploy in netlify
+
+[Click here to see it](https://klich-form-validation-react.netlify.app/)
+
+---
 ## Views
 
 ![View 1](./src/assets/img/formValidation1.png)
